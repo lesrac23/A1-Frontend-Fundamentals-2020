@@ -17,6 +17,7 @@ diferencia?
   <body>
     <!-- Esto es lo que se verá en el navegador web -->
     <h1>Build your blog. Build your business.</h1>
+    hola
     <h4>
       Instantly publish articles, drive more traffic, grow your email list, and
       see your blog’s impact on sales.
